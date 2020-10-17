@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'a Astro Space';
+    src: url('https://font.bright.games/eot/aAstroSpace.eot');
+    src: url('https://font.bright.games/eot/aAstroSpace.eot#iefix') format('embedded-opentype'),
+        url('https://font.bright.games/woff2/aAstroSpace.woff2') format('woff2'),
+        url('https://font.bright.games/woff/aAstroSpace.woff') format('woff'),
+        url('https://font.bright.games/ttf/aAstroSpace.ttf') format('truetype'),
+        url('https://font.bright.games/svg/aAstroSpace.svg#aAstroSpace') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
